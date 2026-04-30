@@ -1,4 +1,6 @@
-# hi, i'm sebastián 👋
+<img width="1296" height="618" alt="image" src="https://github.com/user-attachments/assets/9c03fda0-a199-46b9-be03-21ce265398da" />
+
+# hi, i'm sebastián
 
 software engineer & IT consultant based in Chile. i like understanding systems end-to-end — from UX to backend to infrastructure. i debug things, talk to clients, and turn messy problems into clean solutions.
 
@@ -6,9 +8,15 @@ currently working at **Envision** building web platforms for clients across publ
 
 working on my own stuff on my free time too!
 
+<p align="center">
+  <a href="mailto:sebastian.alvr@outlook.com"><img src="https://img.shields.io/badge/-email-black?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sealrai"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sealra"><img src="https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
 ---
 
-## ⚡ technologies
+## what i know
 
 **languages**
 
@@ -47,19 +55,3 @@ working on my own stuff on my free time too!
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
 
----
-
-## certs
-
-- Foundational C# with Microsoft `2025`
-- Azure Fundamentals `2024`
-- EF SET English C2 — 84/100 `2023`
-
-
----
-
-<p align="center">
-  <a href="mailto:sebastian.alvr@outlook.com"><img src="https://img.shields.io/badge/-email-black?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sealrai"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sealra"><img src="https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
