@@ -2,7 +2,7 @@
 
 software engineer & IT consultant based in Chile. i like understanding systems end-to-end — from UX to backend to infrastructure. i debug things, talk to clients, and turn messy problems into clean solutions.
 
-currently working at **[Envision](https://github.com/sealra)** building web platforms for clients across public and private sectors.
+currently working at **[Envision](https://www.linkedin.com/company/24781612/)** building web platforms for clients across public and private sectors.
 
 ---
 
