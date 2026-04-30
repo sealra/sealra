@@ -2,7 +2,7 @@
 
 # hi, i'm sebastián
 
-software engineer & IT consultant based in Chile. i like understanding systems end-to-end — from UX to backend to infrastructure. i debug things, talk to clients, and turn messy problems into clean solutions.
+software engineer & IT consultant based in Chile. i like understanding systems end-to-end, from UX to backend to infrastructure. i debug things, talk to clients, and turn messy problems into clean solutions.
 
 currently working at [Envision](https://www.linkedin.com/company/envision-chile/posts/?feedView=all) building web platforms for clients across public and private sectors.
 
