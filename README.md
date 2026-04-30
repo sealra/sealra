@@ -1,4 +1,4 @@
-<img width="1296" height="618" alt="image" src="https://github.com/user-attachments/assets/9c03fda0-a199-46b9-be03-21ce265398da" />
+<img width="1156" height="502" alt="image" src="https://github.com/user-attachments/assets/0fc13135-5d20-4c62-96b9-9a50300bdee6" />
 
 # hi, i'm sebastián
 
